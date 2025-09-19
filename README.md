@@ -1,5 +1,7 @@
 Apex Task 1 – My Simple Web
 
+https://ajjadasiva9955.github.io/apextask1-mysimpleweb/
+
 This repository contains my first assignment for Apex Planet Private Limited: a clean, responsive personal web portfolio built with basic HTML and CSS. The site includes an about section, project gallery, and contact information—providing a straightforward demonstration of web design fundamentals.
 
 Features:
